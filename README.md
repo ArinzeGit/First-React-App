@@ -12,8 +12,8 @@ This is my very first web page in React. This project introduced me to the basic
 ## How to run
 * Ensure you have a modern web browser installed
 * Open the index.html file in the production build located in the 'gh-pages' branch
-* The project should now be visible in your browser
-* Or you can visit the live site URL [here](https://arinzegit.github.io/First-React-App/)
+* The project should now be visible in your browser  
+- Or you can visit the live site URL [here](https://arinzegit.github.io/First-React-App/)
 ## Technologies used
 * HTML
 * CSS
