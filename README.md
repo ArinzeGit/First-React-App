@@ -4,7 +4,7 @@
 
 ## Context and Description
 
-This is my very first web page in React. This project introduced me to the basic concepts in React. I used this project to practice the following:
+This is my very first web page in `React`. This project introduced me to the basic concepts in `React`. I used this project to practice the following:
 
 - Reusable components
 - JSX (JavaScript XML) syntax
