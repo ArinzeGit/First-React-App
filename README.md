@@ -21,7 +21,7 @@ This is my very first web page in `React`. This project introduced me to the bas
 - Open the index.html file in the production build located in the 'gh-pages' branch
 - The project should now be visible in your browser
 
-* Or you can visit the [Live Site Here](https://arinzegit.github.io/First-React-App/)
+* Or you can visit the [Live Site Here](https://arinzegit.github.io/My-First-React-App/)
 
 ## Technologies used
 
